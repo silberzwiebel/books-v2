@@ -25,6 +25,8 @@ Mit diesem Sensor SDS011 ist es möglich die Feinstaubkonzentration in der Luft 
    * Stück Teflonschlauch Ø = 6mm innen und Ø = 8mm außen
    * Gehäuse
    * Kabelverschraubung 16mm
+   
+Eine Anleitung zum Zusammenbau der Teile findest Du bei [der Anleitung zum Gesamtzusammenbau](https://sensebox.github.io/books-v2/home/de/erste-schritte/zusammenbau.html#7-schritt).
 
 ## Anschluss und Programmierung
 
